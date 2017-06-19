@@ -1,0 +1,6 @@
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\Shekels\bin\x86\Debug\Shekels.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\Shekels\bin\x86\Debug\Shekels.pdb
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\Shekels\bin\x86\Debug\Terraria.exe
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\Shekels\obj\x86\Debug\Shekels.csprojResolveAssemblyReference.cache
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\Shekels\obj\x86\Debug\Shekels.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\Shekels\obj\x86\Debug\Shekels.pdb

@@ -1,0 +1,145 @@
+Oy Vey!
+
+Current Bugs:
+Possible desync problems with the lumberjack's grenade and the torcher.
+
+<v 0.3.4.2>
+Projectiles from the Archer card no longer collide with tiles when entering through the portals. 
+Unlimited Bait Works - infinite bait.
+
+<v 0.3.4.1>
+Visual changes to Archer card. 
+
+<v 0.3.4.0>
+Archer Card - stuff happens. 
+
+<v 0.3.3.0>
+Updated mod to be compatible with tmodloader v0.10
+Biome lockboxes now correctly give the corresponding biome chest item, instead of just vampire knives. 
+Zerzerk now works like how it was originally planned, a ranged weapon similar to the daybreak and bone javelins.
+
+<v 0.3.2.2>
+Readded the command to check the number of angler quests that was accidentally deleted when updating to tmodloader v0.9.2.3
+
+<v 0.3.2.1>
+Updated to be compatible with tmodloader v0.9.2.3
+
+<v 0.3.2.0>
+Torcher now uses worldgen functions instead of directly editing tiles. 
+Torcher now places tiles over moss. 
+New Items:
+LumberJack's Grenade - stickes to tiles and cuts trees. Crafted with grenades and copper axes. 
+Ocean and Desert crates - from fishing. Contains loot found in water chests and pyramids. 
+
+<v 0.3.1.0>
+Attempted fix of Zerzerk arrows not syncing over servers. 
+Torcher how does not try to attack torches to closed doors. 
+Torch placing by torcher improved to not mess with background walls. 
+New Item: 
+Tundra Crate - A biome crate for the tundra
+
+<v 0.3.0.0>
+MemeBow visual update, name changed to Zerzerk. Arrows have also been updated. 
+Flask of Frost visual update, not longer using placeholder sprites. 
+New Item:
+Torcher - automatically places torches around the player.
+
+<v 0.2.5.0>
+Reworked the Meme Bow to not inflict a debuff. Instead, arrows stuck in enemies increate the damage dealt to that enemy by the next critical hit. 
+Drecreaed the amount of green thread needed to craft to meme bow
+New Item:
+Flask of Frost - same as the vanilla flasks, but for frostburn. 
+
+<v 0.2.4.0>
+Changes:
+Memebow now just does more damage on servers instead of inflicting a damage over time debuff. 
+New Items:
+Vampire Bat Staff - summons a minion that has a chance to lifesteal. 
+Card of Babylon - creates projectiles out of thin air
+
+<v 0.2.3.0>
+New item:
+Flux Arrow - causes an arrow to appear when hitting an enemy, similar to the Influx Waver projectile. 
+
+<v 0.2.2.11>
+Debuff has been changed back to the way it was. 
+
+<v 0.2.2.10>
+Cards that heal the player how properly heal the player. 
+Minor tweaks to the way damage is done by the Meme Bow debuff. 
+
+<v 0.2.2.9>
+Hotfix for the Meme Bow again. 
+
+<v 0.2.2.8>
+Fixed an issue where Meme Bow arrows would not disappear during night time. 
+
+<v 0.2.2.7>
+Attempted to fix an issue where Meme Bow arrows would not disappear during night time. 
+
+<v 0.2.2.6>
+Fixed forgotten parenthesis and order of operations. 
+
+<v 0.2.2.5>
+Changed the point in time of damage for the Meme Bow debuff in order to reduce server desync. 
+
+<v 0.2.2.4>
+Nerfed the Meme Bow debuff to do 2 damage / 1 sec / arrow insead of 1 damage / 0.25 sec / arrow. 
+Improved pakcet handling of the Meme Bow debuff. 
+Enemeies are now less likely to disappear when dying under the debuff. 
+
+<v 0.2.2.3>
+Fixed the Magic Deck of Cards throwing out cards once ever two animations. 
+
+<v 0.2.2.2>
+Nerfed the Magic Deck of Instructions further. 
+
+<v 0.2.2.1>
+Nerved the Magic Deck of Instructions. 
+
+<v 0.2.2.0>
+Fixes:
+Bug where the magic deck of instructions would not work when first crafted. 
+Meme bow projectiles. 
+
+<v 0.2.1.3 to v 0.2.1.13>
+Server testing versions. 
+
+<v 0.2.1.2>
+Minor multiplayer bug fixes. 
+For server testing purposes. 
+
+<v 0.2.1.1>
+The meme bow actually sends the packet when hitting an enemy. 
+Wew. 
+
+<v 0.2.1.0>
+Incresed fade distance and time for card projectile. 
+Hopefully fixed mutliplayer bugs:
+Meme bow 1 arrow desync on hit. 
+Magic Deck of instructions not working when first crafted in multiplayer. 
+Blank Card Projectile flying sideways. 
+
+<v 0.2.0.1>
+Fixed the proce of the meme bow. 
+
+<v 0.2.0.0>
+Two new items:
+Magic Deck of Instructions
+A joke weapon. Might be a bit to powerful. 
+Meme Bow 1
+A bow that works somewhat like the Daybreak/Bone Javelins. 
+
+<v 0.1.1.2>
+Temporary patch for tpnpc while I try to figure out how to parse strings. 
+
+<v 0.1.1.1>
+Bug fixes for chat commands. 
+>bugs
+
+<v 0.1.1.0>
+Chat commands added. 
+The sleeve has been returned to a pre hardmode item like originally planned. 
+
+<v 0.1.0.1>
+Added in an npc head sprite. 
