@@ -50,7 +50,7 @@ namespace Shekels.Projectiles
             {
                 if (player.armor[k].type == mod.ItemType("Sleeve") && crit)
                 {
-                    Projectile.NewProjectile(player.position.X, player.position.Y, 0f, -9f, mod.ProjectileType("HeartsCardHoming"), projectile.damage, 1f, projectile.owner);
+                    Projectile.NewProjectile(target.position.X, target.position.Y, 0f, -9f, mod.ProjectileType("HeartsCardHoming"), projectile.damage, 1f, projectile.owner);
                 }
             }
         }
